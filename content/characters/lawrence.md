@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: medium
 era: "~1880–present"
-aliases: ["Sir Lawrence", "Monsieur Lawrence"]
+aliases: ["Lawrence", "Sir Lawrence", "Monsieur Lawrence"]
 relationships: ["Lark Burnhardt (protégé)", "Alexander Gloomshard (interest)", "Khinning Crown (minister)"]
 first_appearance: "The Ivory Tower, Chapter 2"
 last_updated: 2026-05-10
