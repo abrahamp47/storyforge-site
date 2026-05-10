@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: medium
 era: "~1907–present"
-aliases: []
+aliases: ["Shiro Yagurai", "Shiro-Yagurai"]
 relationships: ["Saburo Yagurai (brother)", "Jiro Yagurai (brother)", "Kenichi Yagurai (relative)", "Johnny Sabat (rival)", "Ada Braunholdt (friend)"]
 first_appearance: "The Ivory Tower, Chapter 12"
 last_updated: 2026-05-10

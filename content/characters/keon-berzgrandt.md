@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: low
 era: ""
-aliases: ["The Fairy King"]
+aliases: ["The Fairy King", "Keon Berzgrandt", "Keon-Berzgrandt"]
 relationships: ["UYM Khinning (professor)", "Alexander Gloomshard (teacher)"]
 first_appearance: "The Ivory Tower, Chapter 9"
 last_updated: 2026-05-10

@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: medium
 era: "~1908–present"
-aliases: []
+aliases: ["Aron Linefeldt", "Aron-Linefeldt"]
 relationships: ["Nora Linefeldt (twin sister)", "Alexander Gloomshard (friend)", "Royce J. Garett (mentor)", "Korvan Lee Yang (father)"]
 first_appearance: "#1 Beta Draft, Arc #2"
 last_updated: 2026-05-10

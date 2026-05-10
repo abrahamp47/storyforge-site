@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: medium
 era: "~1907–present"
-aliases: ["Derry"]
+aliases: ["Derry", "Derek Francis Sanzabar", "Derek-Francis-Sanzabar", "Derek-Sanzabar"]
 relationships: ["Lark Burnhardt (childhood friend/associate)", "Alexander Gloomshard (classmate)"]
 first_appearance: "The Ivory Tower, Chapter 3"
 last_updated: 2026-05-10

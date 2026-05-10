@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: low
 era: "~1907–present"
-aliases: []
+aliases: ["Hades Elfman", "Hades-Elfman"]
 relationships: ["Volta (royal family)", "Alexander Gloomshard (classmate)"]
 first_appearance: "The Ivory Tower, Chapter 9"
 last_updated: 2026-05-10

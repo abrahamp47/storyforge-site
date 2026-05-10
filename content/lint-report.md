@@ -6,7 +6,7 @@ sources: []
 canon_status: canon
 spoiler_level: none
 era: ""
-aliases: []
+aliases: ["Lint Report", "Lint-Report"]
 relationships: []
 first_appearance: ""
 last_updated: 2026-05-10

@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: medium
 era: "~1907–present"
-aliases: ["Johnny Sabbath"]
+aliases: ["Johnny Sabbath", "Johnny Sabat", "Johnny-Sabat"]
 relationships: ["Shiro Yagurai (rival)", "Billy Darnell (friend)"]
 first_appearance: "Conjury List"
 last_updated: 2026-05-10

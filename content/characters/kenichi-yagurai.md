@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: low
 era: ""
-aliases: ["Kenny", "Ken"]
+aliases: ["Kenny", "Ken", "Kenichi Yagurai", "Kenichi-Yagurai"]
 relationships: ["Royce J. Garett (friend)", "Zefua (Grand Guard)", "Yagurai family"]
 first_appearance: "The Ivory Tower, Chapter 4"
 last_updated: 2026-05-10

@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: none
 era: ""
-aliases: ["Magic Disciplines", "Mana Disciplines"]
+aliases: ["Magic Disciplines", "Mana Disciplines", "Streams"]
 relationships: ["UYM Khinning (taught at)", "Manathist (practitioners)"]
 first_appearance: "Streams for prior version"
 last_updated: 2026-05-10

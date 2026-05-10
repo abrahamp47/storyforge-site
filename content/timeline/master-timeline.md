@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: high
 era: "1882–1929"
-aliases: ["Timeline"]
+aliases: ["Timeline", "Master Timeline", "Master-Timeline"]
 relationships: []
 first_appearance: "Timeline Sheet"
 last_updated: 2026-05-10

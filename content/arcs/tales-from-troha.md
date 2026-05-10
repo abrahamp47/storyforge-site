@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: medium
 era: "various"
-aliases: ["TFT"]
+aliases: ["TFT", "Tales From Troha", "Tales-From-Troha"]
 relationships: ["Troha (setting)", "Harpei (location)", "Lawrence (character)"]
 first_appearance: "Tales From Troha folder"
 last_updated: 2026-05-10

@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: high
 era: "1882–1929"
-aliases: ["Manathist", "Troha Corpus"]
+aliases: ["Manathist", "Troha Corpus", "The World of Troha", "The-World-Of-Troha", "The-World-of-Troha"]
 relationships: []
 first_appearance: ""
 last_updated: 2026-05-10

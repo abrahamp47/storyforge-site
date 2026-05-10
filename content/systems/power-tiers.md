@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: high
 era: ""
-aliases: ["Tier List"]
+aliases: ["Tier List", "Power Tiers", "Power-Tiers"]
 relationships: []
 first_appearance: "Timeline and Tiers"
 last_updated: 2026-05-10

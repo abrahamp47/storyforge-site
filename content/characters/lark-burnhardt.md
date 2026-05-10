@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: medium
 era: "~1907–present"
-aliases: []
+aliases: ["Lark Burnhardt", "Lark-Burnhardt"]
 relationships: ["Lawrence (mentor)", "Alexander Gloomshard (rival)"]
 first_appearance: "Conjury List"
 last_updated: 2026-05-10

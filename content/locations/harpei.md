@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: low
 era: ""
-aliases: ["The Sunken City", "Lone Harpei"]
+aliases: ["The Sunken City", "Lone Harpei", "Harpei"]
 relationships: ["Khinning (part of)", "Keinzmen (residents)", "Aurelius family (historical)", "Keinzlandt clan (historical)"]
 first_appearance: "Harpei: A Brief History"
 last_updated: 2026-05-10

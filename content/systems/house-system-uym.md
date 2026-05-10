@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: none
 era: ""
-aliases: ["Houses"]
+aliases: ["Houses", "House-System-Uym", "UYM House System", "UYM-House-System"]
 relationships: ["UYM Khinning (school)"]
 first_appearance: "House System"
 last_updated: 2026-05-10

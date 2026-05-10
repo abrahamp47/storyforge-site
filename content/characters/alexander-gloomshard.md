@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: medium
 era: "1908–present"
-aliases: ["Alex", "Al", "Prince Boy"]
+aliases: ["Alex", "Al", "Prince Boy", "Alexander Marcus Gloomshard", "Alexander-Gloomshard", "Alexander-Marcus-Gloomshard"]
 relationships: ["Marcus Finneas Gloomshard (father)", "Queen of Gleadenhyme (mother)", "Adrian Marcus Gloomshard (brother)", "Aveline Gloomshard (sister)", "Emilie Connor Gloomshard (cousin)", "Royce J. Garett (mentor)", "Lark Burnhardt (rival)"]
 first_appearance: "The Ivory Tower, Chapter 1"
 last_updated: 2026-05-10

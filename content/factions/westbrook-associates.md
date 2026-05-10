@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: high
 era: "1911–present"
-aliases: ["Westbrook Associates", "The Westbrook Parasite"]
+aliases: ["Westbrook Associates", "The Westbrook Parasite", "Westbrook & Sons Co.", "Westbrook-&-Sons-Co.", "Westbrook-Associates"]
 relationships: ["Volta (based in)", "Khinning (leeching from)", "Round Table (colluding with)", "Levy von Levenhawk (opposes)"]
 first_appearance: "The Westbrook Parasite Plan"
 last_updated: 2026-05-10

@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: low
 era: ""
-aliases: ["Royce's House"]
+aliases: ["Royce's House", "Renmark Estate", "Renmark-Estate"]
 relationships: ["Royce J. Garett (owner)", "Alexander Gloomshard (resident)", "Louis von Levenhawk (attic resident)"]
 first_appearance: "#1 Beta Draft, Arc #2"
 last_updated: 2026-05-10

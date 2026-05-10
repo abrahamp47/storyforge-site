@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: medium
 era: "~1907–present"
-aliases: ["Ada Branholdt"]
+aliases: ["Ada Branholdt", "Ada Braunholdt", "Ada-Braunholdt"]
 relationships: ["Alexander Gloomshard (love interest)", "Johan Jordis (friend)"]
 first_appearance: "The Ivory Tower, Chapter 9"
 last_updated: 2026-05-10

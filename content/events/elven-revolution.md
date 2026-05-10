@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: medium
 era: "~1908–1913"
-aliases: ["Krill Revolution", "Van Krill's Coup"]
+aliases: ["Krill Revolution", "Van Krill's Coup", "Elven-Revolution", "The Elven Revolution", "The-Elven-Revolution"]
 relationships: ["Yozaki Van Krill (leader)", "Society of Elven Hope (overthrown)", "Seven Drow Alliance (aftermath resistance)"]
 first_appearance: "Elven La: A Brief History"
 last_updated: 2026-05-10

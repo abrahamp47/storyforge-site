@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: low
 era: ""
-aliases: ["The Naturalists' Stream"]
+aliases: ["The Naturalists' Stream", "Conjury"]
 relationships: ["Streams (parent system)", "UYM Khinning (taught at)", "Keon Berzgrandt (professor)"]
 first_appearance: "Creature Book"
 last_updated: 2026-05-10

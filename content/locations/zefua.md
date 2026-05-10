@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: low
 era: ""
-aliases: ["Sodvic Republic of Zefua"]
+aliases: ["Sodvic Republic of Zefua", "Zefua"]
 relationships: ["Gleadenhyme (allied)", "Kenichi Yagurai (Grand Guard)", "Royce J. Garett (visitor)"]
 first_appearance: "The Ivory Tower, Chapter 4"
 last_updated: 2026-05-10

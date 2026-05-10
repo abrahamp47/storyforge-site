@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: low
 era: "~1908–present"
-aliases: []
+aliases: ["Nora Linefeldt", "Nora-Linefeldt"]
 relationships: ["Aron Linefeldt (twin brother)", "Alexander Gloomshard (classmate)", "Royce J. Garett (mentor)"]
 first_appearance: "#1 Beta Draft, Arc #3"
 last_updated: 2026-05-10

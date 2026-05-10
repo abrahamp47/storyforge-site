@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: low
 era: "~1907–present"
-aliases: ["Jojo"]
+aliases: ["Jojo", "Johan Jordis", "Johan-Jordis"]
 relationships: ["Alexander Gloomshard (friend)", "Ada Braunholdt (friend)"]
 first_appearance: "The Ivory Tower, Chapter 9"
 last_updated: 2026-05-10

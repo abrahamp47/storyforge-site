@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: medium
 era: "1923"
-aliases: ["Book 1"]
+aliases: ["Book 1", "Ivory-Tower", "The Ivory Tower", "The-Ivory-Tower"]
 relationships: ["Alexander Gloomshard (protagonist)", "UYM Khinning (setting)", "Royce Garett (mentor)", "Lark Burnhardt (antagonist)"]
 first_appearance: "The Ivory Tower Complete Edition"
 last_updated: 2026-05-10

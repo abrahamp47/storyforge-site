@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: medium
 era: "~1903–present"
-aliases: ["Scarlet Scirocco", "Mr. Garett", "Jariel", "Royce Garett Renmark", "Ghost Boy"]
+aliases: ["Scarlet Scirocco", "Mr. Garett", "Jariel", "Royce Garett Renmark", "Ghost Boy", "Royce J. Garett", "Royce-Garett", "Royce-J.-Garett"]
 relationships: ["Alexander Gloomshard (student)", "Emilie Connor Gloomshard (student)", "Levy von Levenhawk (connected)"]
 first_appearance: "The Ivory Tower, Chapter 2"
 last_updated: 2026-05-10

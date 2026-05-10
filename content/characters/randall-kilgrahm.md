@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: high
 era: "pre-1911"
-aliases: ["The Vampire King"]
+aliases: ["The Vampire King", "Randall Kilgrahm", "Randall-Kilgrahm"]
 relationships: ["King Lavoisier von Levenhawk (enemy)", "Levy von Levenhawk (nemesis)", "Kilgrahm family (deceased)"]
 first_appearance: "Life & Philosophy of The Vampire King"
 last_updated: 2026-05-10

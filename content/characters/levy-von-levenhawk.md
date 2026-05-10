@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: high
 era: "1894–1929"
-aliases: ["King Levy"]
+aliases: ["King Levy", "Levy von Levenhawk", "Levy-Von-Levenhawk", "Levy-von-Levenhawk"]
 relationships: ["King Levant (father)", "Lance (brother/regent)", "Louis (brother/regent)", "Randall Kilgrahm (nemesis)"]
 first_appearance: "Timeline Sheet"
 last_updated: 2026-05-10

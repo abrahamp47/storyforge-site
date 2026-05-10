@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: high
 era: "1911–1913"
-aliases: ["Coffin Rebirth / New Dawn / Another World's Lament"]
+aliases: ["Coffin Rebirth / New Dawn / Another World's Lament", "Royce-Trilogy", "The Royce Trilogy", "The-Royce-Trilogy"]
 relationships: ["Royce J. Garett (protagonist)", "Levy von Levenhawk (co-lead)", "Randall Kilgrahm (antagonist)", "Quinton Keinz (key figure)"]
 first_appearance: "Royce Trilogy"
 last_updated: 2026-05-10

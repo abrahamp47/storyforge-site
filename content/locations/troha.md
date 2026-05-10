@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: none
 era: ""
-aliases: ["The World of Troha"]
+aliases: ["The World of Troha", "Troha"]
 relationships: ["Khinning (nation)", "Gleadenhyme (nation)", "Elven La (nation)", "Krillma (nation)", "Volta (nation)"]
 first_appearance: "The Ivory Tower, Chapter 0"
 last_updated: 2026-05-10

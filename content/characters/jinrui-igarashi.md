@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: low
 era: ""
-aliases: ["Jin"]
+aliases: ["Jin", "Jinrui Igarashi", "Jinrui-Igarashi"]
 relationships: ["UYM Khinning (professor)", "Phase 3 counsellor"]
 first_appearance: "The Ivory Tower, Chapter 10"
 last_updated: 2026-05-10

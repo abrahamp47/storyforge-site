@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: high
 era: "1911"
-aliases: []
+aliases: ["Coffin Rebirth", "Coffin-Rebirth"]
 relationships: ["Randall Kilgrahm (perpetrator)", "King Levant (victim)", "Levy von Levenhawk (coronated)"]
 first_appearance: "Timeline Sheet"
 last_updated: 2026-05-10

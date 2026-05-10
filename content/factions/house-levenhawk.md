@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: medium
 era: "1884–1929"
-aliases: ["Levenhawk Dynasty", "von Levenhawk"]
+aliases: ["Levenhawk Dynasty", "von Levenhawk", "House Levenhawk", "House-Levenhawk"]
 relationships: ["Khinning (rules)", "Levy von Levenhawk (king)", "Randall Kilgrahm (nemesis)"]
 first_appearance: "Timeline Sheet"
 last_updated: 2026-05-10

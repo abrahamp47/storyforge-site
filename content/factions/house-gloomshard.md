@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: low
 era: "1882–present"
-aliases: ["Gloomshard Dynasty"]
+aliases: ["Gloomshard Dynasty", "House Gloomshard", "House-Gloomshard"]
 relationships: ["Gleadenhyme (rules)", "Alexander Gloomshard (heir)", "Marcus Finneas Gloomshard (current king)"]
 first_appearance: "The Ivory Tower, Chapter 1"
 last_updated: 2026-05-10

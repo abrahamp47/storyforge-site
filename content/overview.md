@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: low
 era: "1882–1929"
-aliases: []
+aliases: ["Overview"]
 relationships: []
 first_appearance: ""
 last_updated: 2026-05-10

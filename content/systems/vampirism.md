@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: medium
 era: ""
-aliases: []
+aliases: ["Vampirism"]
 relationships: ["Randall Kilgrahm (notable vampire)"]
 first_appearance: "Life & Philosophy of The Vampire King"
 last_updated: 2026-05-10

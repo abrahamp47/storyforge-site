@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: high
 era: "~1900–present"
-aliases: ["Tansen"]
+aliases: ["Tansen", "Tansen Li Wei", "Tansen-Li-Wei"]
 relationships: ["Yozaki Van Krill (serves)", "Li Wei family", "Mrs Li Wei (mother)", "Korvan Lee Yang (possible true lineage)"]
 first_appearance: "Elven Revolution: Story of the Nightingale"
 last_updated: 2026-05-10

@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: medium
 era: "~1907–present"
-aliases: ["Keito of the Great Jinshen Clan", "Ark Jin Shen (enrolled as)"]
+aliases: ["Keito of the Great Jinshen Clan", "Ark Jin Shen (enrolled as)", "Keito Jin Shen", "Keito-Jin-Shen", "Keito-Jinshen"]
 relationships: ["Aron Linefeldt (antagonist)", "Akasuki Ishiguro (enemy)", "Nora Linefeldt (enemy)"]
 first_appearance: "The Ivory Tower, Chapter 12"
 last_updated: 2026-05-10

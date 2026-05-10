@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: high
 era: "1923"
-aliases: []
+aliases: ["Book 1 Arc Structure", "Book-1-Arc-Structure", "Book-1-Structure"]
 relationships: ["The Ivory Tower (parent arc)"]
 first_appearance: "#1 Beta Draft"
 last_updated: 2026-05-10

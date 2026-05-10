@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: low
 era: ""
-aliases: ["SPECTR"]
+aliases: ["SPECTR", "SPECTR Unit", "SPECTR-Unit", "Spectr"]
 relationships: ["Round Table (reports to)"]
 first_appearance: "SPECTR"
 last_updated: 2026-05-10

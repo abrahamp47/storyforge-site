@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: high
 era: "~1911–1913"
-aliases: ["Blackhand", "Council's Blackhand"]
+aliases: ["Blackhand", "Council's Blackhand", "The Black Hand", "The-Black-Hand"]
 relationships: ["Lance (founder)", "Levy von Levenhawk (victim)", "Louis von Levenhawk (survivor)"]
 first_appearance: "#7 Hunting Assignment Arc"
 last_updated: 2026-05-10

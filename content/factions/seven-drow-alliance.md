@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: medium
 era: "~1908–present"
-aliases: ["7 Drow Alliance"]
+aliases: ["7 Drow Alliance", "Seven Drow Alliance", "Seven-Drow-Alliance"]
 relationships: ["Yozaki Van Krill (enemy)", "Lee Yang family (connected)", "Blue Krill Hills (territory)"]
 first_appearance: "Streams for prior version"
 last_updated: 2026-05-10

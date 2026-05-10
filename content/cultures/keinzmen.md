@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: low
 era: ""
-aliases: ["Keinz", "Manaless Folk"]
+aliases: ["Keinz", "Manaless Folk", "Keinzmen"]
 relationships: ["Keinzlandt clan (ancestors)", "Harpei (homeland)", "Khinning (nation)"]
 first_appearance: "Harpei: A Brief History"
 last_updated: 2026-05-10

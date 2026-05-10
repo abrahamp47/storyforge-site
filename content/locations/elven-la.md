@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: medium
 era: ""
-aliases: ["Land of Elves"]
+aliases: ["Land of Elves", "Elven La", "Elven-La"]
 relationships: ["Khinning (neighbor)", "Gleadenhyme (neighbor)", "Volta (neighbor)", "Krillma (neighbor)"]
 first_appearance: "Elven La: A Brief History"
 last_updated: 2026-05-10

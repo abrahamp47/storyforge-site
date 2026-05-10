@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: high
 era: "~1880–present"
-aliases: ["Yozaki Li Zhao", "The Northerner", "Olven canis van Krill"]
+aliases: ["Yozaki Li Zhao", "The Northerner", "Olven canis van Krill", "Baron Yozaki Van Krill", "Baron-Yozaki-Van-Krill", "Yozaki-Van-Krill"]
 relationships: ["Yuan Li Argesfoldt (mother)", "Kahn Li Jhao (father)", "Arkin Lee Yang (ally)", "Korvan Lee Yang (rival)", "Nora Lee Yang (successor as Baroness)"]
 first_appearance: "Elven La: A Brief History"
 last_updated: 2026-05-10

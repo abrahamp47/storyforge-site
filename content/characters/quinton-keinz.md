@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: high
 era: ""
-aliases: ["Master Quinton", "Quinton Keinz Joey"]
+aliases: ["Master Quinton", "Quinton Keinz Joey", "Quinton Keinz", "Quinton-Keinz"]
 relationships: ["Levy von Levenhawk (connected)", "Royce J. Garett (connected)", "Black Orchid Orphans (leads)"]
 first_appearance: "Royce Trilogy"
 last_updated: 2026-05-10

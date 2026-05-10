@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: low
 era: "founding–1913"
-aliases: ["Elven Hope", "Purebloods", "Higher Elves"]
+aliases: ["Elven Hope", "Purebloods", "Higher Elves", "Society-Of-Elven-Hope", "The Society of Elven Hope", "The-Society-of-Elven-Hope"]
 relationships: ["Elven La (founded)", "Ark Jin Shen (founder)", "Yozaki Van Krill (overthrown by)"]
 first_appearance: "Elven La: A Brief History"
 last_updated: 2026-05-10

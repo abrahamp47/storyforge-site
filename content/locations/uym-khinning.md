@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: low
 era: ""
-aliases: ["Khinning University for Young Manathists", "University for Young Manathists"]
+aliases: ["Khinning University for Young Manathists", "University for Young Manathists", "UYM Khinning", "UYM-Khinning", "Uym-Khinning"]
 relationships: ["Khinning (located in)", "Alexander Gloomshard (student)", "Royce Garett (professor)"]
 first_appearance: "The Ivory Tower, Chapter 1"
 last_updated: 2026-05-10

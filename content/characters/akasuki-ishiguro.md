@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: medium
 era: "~1907–present"
-aliases: ["Suki"]
+aliases: ["Suki", "Akasuki Ishiguro", "Akasuki-Ishiguro"]
 relationships: ["Alexander Gloomshard (friend)", "Keito Jin Shen (enemy)", "Nora Linefeldt (friend)"]
 first_appearance: "The Ivory Tower, Chapter 13"
 last_updated: 2026-05-10

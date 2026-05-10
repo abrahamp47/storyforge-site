@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: low
 era: ""
-aliases: ["Round Table Summit"]
+aliases: ["Round Table Summit", "Round-Table", "The Round Table", "The-Round-Table"]
 relationships: ["Khinning (member)", "Gleadenhyme (member)", "Elven La (excluded under Yozaki)", "Krillma (member)", "Volta (member)", "SPECTR (enforcement arm)"]
 first_appearance: "SPECTR"
 last_updated: 2026-05-10

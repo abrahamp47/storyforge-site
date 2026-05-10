@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: low
 era: ""
-aliases: ["Krilma"]
+aliases: ["Krilma", "Krillma"]
 relationships: ["Khinning (neighbor)", "Volta (neighbor)", "Elven La (neighbor)"]
 first_appearance: "Timeline Sheet"
 last_updated: 2026-05-10

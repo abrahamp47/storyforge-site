@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: medium
 era: ""
-aliases: ["Sir Silas Eckhardt"]
+aliases: ["Sir Silas Eckhardt", "Silas Eckhardt", "Silas-Eckhardt"]
 relationships: ["Levy von Levenhawk (served)", "UYM Khinning (Phase 2 counsellor)"]
 first_appearance: "The Ivory Tower, Chapter 10"
 last_updated: 2026-05-10

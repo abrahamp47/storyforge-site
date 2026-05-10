@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: low
 era: ""
-aliases: ["Gods of Troha"]
+aliases: ["Gods of Troha", "Pantheon", "The Pantheon", "The-Pantheon"]
 relationships: ["Neiganites (Denanagen followers)", "Sodvics (Dansodo followers)"]
 first_appearance: "Gods Pantheon"
 last_updated: 2026-05-10

@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: low
 era: "~1907–present"
-aliases: ["Emi", "Princess"]
+aliases: ["Emi", "Princess", "Emilie Connor Gloomshard", "Emilie-Connor-Gloomshard", "Emilie-Gloomshard"]
 relationships: ["Alexander Gloomshard (cousin)", "Connor family (father's side)"]
 first_appearance: "The Ivory Tower, Chapter 2"
 last_updated: 2026-05-10

@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: low
 era: ""
-aliases: []
+aliases: ["Khinning"]
 relationships: ["Gleadenhyme (neighbor)", "Elven La (neighbor)", "Krillma (neighbor)"]
 first_appearance: "The Ivory Tower, Chapter 1"
 last_updated: 2026-05-10

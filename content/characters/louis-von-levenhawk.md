@@ -6,7 +6,7 @@ sources: ["the-world-of-troha"]
 canon_status: canon
 spoiler_level: high
 era: "~1909–present"
-aliases: []
+aliases: ["Louis von Levenhawk", "Louis-Von-Levenhawk", "Louis-von-Levenhawk"]
 relationships: ["Levy von Levenhawk (brother)", "Lance (uncle/regent)", "Alexander Gloomshard (friend)", "Royce J. Garett (guardian)"]
 first_appearance: "#1 Beta Draft, Arc #5 The Attic"
 last_updated: 2026-05-10
