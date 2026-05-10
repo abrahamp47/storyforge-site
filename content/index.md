@@ -1,86 +1,61 @@
-# Wiki Index
+---
+title: "Overview"
+type: synthesis
+tags: [story-bible]
+sources: ["the-world-of-troha"]
+canon_status: canon
+spoiler_level: low
+era: "1882–1929"
+aliases: []
+relationships: []
+first_appearance: ""
+last_updated: 2026-05-10
+---
 
-## Overview
-- [Overview](overview.md) — living story bible synthesis
+# Story Bible Overview
 
-## Sources
-- [The World of Troha](sources/the-world-of-troha.md) — complete worldbuilding corpus (170+ docs)
+## The World of Troha — Manathist Series by C. K. Morris
 
-## Characters
-- [Alexander Gloomshard](characters/alexander-gloomshard.md) — Crown Prince of Gleadenhyme, protagonist (D-tier)
-- [Levy von Levenhawk](characters/levy-von-levenhawk.md) — King of Khinning, tragic ruler (S-tier)
-- [Yozaki Van Krill](characters/yozaki-van-krill.md) — Baron of Elven La, revolutionary dictator
-- [Royce J. Garett](characters/royce-garett.md) — Professor, mentor, "Scarlet Scirocco" (A-tier)
-- [Randall Kilgrahm](characters/randall-kilgrahm.md) — The Vampire King
-- [Lark Burnhardt](characters/lark-burnhardt.md) — Wendigo conjurer, rival (C-tier)
-- [Emilie Connor Gloomshard](characters/emilie-gloomshard.md) — Alex's cousin, alchemist
-- [Tansen Li Wei](characters/tansen-li-wei.md) — Singer, propagandist, identity mystery
-- [Lawrence](characters/lawrence.md) — Khinning minister, political mentor, Ring leader
-- [Louis von Levenhawk](characters/louis-von-levenhawk.md) — Prince of Khinning, Fire Sorcery (C-tier)
-- [Aron Linefeldt](characters/aron-linefeldt.md) — Drow elf, tinkerer, Korvan's secret son (E-tier)
-- [Nora Linefeldt](characters/nora-linefeldt.md) — Elf twin, future Baroness of Elven La
-- [Quinton Keinz](characters/quinton-keinz.md) — SS-tier manaless fighter, orphanage master
-- [Ada Braunholdt](characters/ada-braunholdt.md) — Student, Alex's love interest (viridian eyes)
-- [Johan Jordis](characters/johan-jordis.md) — Student from Krillma, social connector ("Jojo")
-- [Derek Sanzabar](characters/derek-sanzabar.md) — Lark's associate, information gatherer
-- [Silas Eckhardt](characters/silas-eckhardt.md) — Mind-reader, Seafarer's Giant wielder (Phase 2)
-- [Keon Berzgrandt](characters/keon-berzgrandt.md) — Conjury professor, "The Fairy King" (S-tier)
-- [Kenichi Yagurai](characters/kenichi-yagurai.md) — Grand Guard of Zefua, Royce's friend
-- [Hades Elfman](characters/hades-elfman.md) — Voltian royal student (B-tier)
-- [Jinrui Igarashi](characters/jinrui-igarashi.md) — Language professor, Phase 3 counsellor (S-tier)
-- [Shiro Yagurai](characters/shiro-yagurai.md) — Elf student, fighter, Yagurai youngest brother
-- [Johnny Sabat](characters/johnny-sabat.md) — Ifrit conjurer, provocateur, Shiro's rival
-- [Keito Jin Shen](characters/keito-jinshen.md) — Jinshen exile, orphaned by revolution
-- [Akasuki Ishiguro](characters/akasuki-ishiguro.md) — Lith, Ishiguro exile, Greentooth conjurer
+A fantasy world where **mana** is universal spiritual energy. Three species (Humans, Elves, Liths) coexist across five Principal Nations governed by the [[Round Table]]. Manaless variants (Keinz, Drow) face systemic discrimination.
 
-## Locations
-- [Troha](locations/troha.md) — the world setting
-- [Khinning](locations/khinning.md) — Principal Nation, Levenhawk dynasty
-- [Gleadenhyme](locations/gleadenhyme.md) — Principal Nation, Gloomshard dynasty
-- [Elven La](locations/elven-la.md) — Principal Nation, elven homeland
-- [Krillma](locations/krillma.md) — Principal Nation, natural beauty
-- [Volta](locations/volta.md) — Principal Nation
-- [UYM Khinning](locations/uym-khinning.md) — University for Young Manathists
-- [Harpei](locations/harpei.md) — The Sunken City, Khinning province
-- [Renmark Estate](locations/renmark-estate.md) — Royce's home, student residence
-- [Zefua](locations/zefua.md) — Sodvic Republic, allied with Gleadenhyme
+### Core Premise
 
-## Factions
-- [House Gloomshard](factions/house-gloomshard.md) — ruling dynasty of Gleadenhyme (12 kings)
-- [House Levenhawk](factions/house-levenhawk.md) — ruling dynasty of Khinning
-- [Society of Elven Hope](factions/society-of-elven-hope.md) — original ruling Purebloods of Elven La
-- [Seven Drow Alliance](factions/seven-drow-alliance.md) — guerrilla resistance in Blue Krill Hills
-- [Westbrook & Sons Co.](factions/westbrook-associates.md) — economic parasite exploiting Khinning
-- [The Black Hand](factions/the-black-hand.md) — covert military assassins (Lance-founded?)
+Prince [[Alexander Gloomshard]] of [[Gleadenhyme]] leaves home to study at [[UYM Khinning]], the premier magical academy. His coming-of-age unfolds against a backdrop of political upheaval: vampire vengeance destabilizing [[Khinning]]'s throne, revolutionary dictatorship in [[Elven La]], and a lost prince whose identity could reshape the continent.
 
-## Cultures
-- [Keinzmen](cultures/keinzmen.md) — manaless humans, marginalized community
+### Narrative Threads
 
-## Artifacts
+1. **Alex's Education** — Stream selection (Conjury/Gangine), rivalries ([[Lark Burnhardt]]), political mentorship ([[Lawrence]]). Lark is assigned to befriend Alex; friendship breaks down into enmity.
+2. **The Vampire King** — [[Randall Kilgrahm]]'s tragedy and its multi-generational impact on [[House Levenhawk]]. The Royce Trilogy (1911–1913) covers the prequel.
+3. **The Westbrook Parasite** — [[Westbrook Associates]] economically drains Khinning through reconstruction monopoly. Levy sacrifices himself to break the pact.
+4. **The Black Hand** — Military conspiracy possibly founded by Regent Lance. [[Louis von Levenhawk]] hides in Royce's attic, paranoid about his uncle.
+5. **Elven Revolution** — [[Yozaki Van Krill]]'s rise, the lost Lee Yang heir ([[Tansen Li Wei]]), the Firebrand child. [[Aron Linefeldt]] is secretly Korvan Lee Yang's son; [[Nora Linefeldt]] becomes future Baroness.
+6. **Book 2: Cult of ECAS** — Religious conflict; heretical church founded by Ekkes
 
-## Systems
-- [Streams](systems/streams.md) — magical disciplines (Sorcery, Conjury, Alchemy, Tinkery, Voyancy)
-- [Conjury](systems/conjury.md) — detailed creature catalog, Form Sleeves, fighting styles
-- [The Round Table](systems/round-table.md) — international governance body
-- [SPECTR Unit](systems/spectr.md) — clandestine intelligence/recovery unit
-- [Vampirism](systems/vampirism.md) — supernatural condition
-- [The Pantheon](systems/pantheon.md) — gods and religion of Troha
-- [UYM House System](systems/house-system-uym.md) — four houses (Red Lotus, Blue Hyacinth, Green Zinnia, Yellow Daffodil)
-- [Power Tiers](systems/power-tiers.md) — SS through E combat ranking
+### World Model
 
-## Events
-- [The Elven Revolution](events/elven-revolution.md) — Yozaki's overthrow of the Purebloods
-- [Coffin Rebirth](events/coffin-rebirth.md) — 1911, King Levant wounded
-- [The Royce Trilogy](events/royce-trilogy.md) — 1911–1913 prequel events
+- **Magic**: [[Streams]] (Sorcery, Conjury, Alchemy, Tinkery, Voyancy, Exorcism, Morphing)
+- **Politics**: [[Round Table]] summits, [[SPECTR]] unit, dynastic succession crises
+- **Religion**: [[Pantheon]] (Denanagen vs Dansodo; Neiganites vs Sodvics)
+- **Species**: Humans/Keinz, Elves/Drow, Liths
+- **Conflict Drivers**: Inequality (mana-haves vs mana-have-nots), colonialism, dynastic instability, identity
 
-## Timeline
-- [Master Timeline](timeline/master-timeline.md) — chronology 1882–1929
+### Canon Status
 
-## Arcs
-- [The Ivory Tower](arcs/ivory-tower.md) — Book 1, Alex at UYM Khinning
-- [Book 1 Arc Structure](arcs/book-1-structure.md) — 14 arcs across 4 acts
-- [Tales From Troha](arcs/tales-from-troha.md) — spinoff anthology series
+- 1 complete novel manuscript (*The Ivory Tower* — 581k chars)
+- 14 arc drafts (Book 1 beta structure — 7 written, 7 placeholder)
+- 34 individual chapter drafts
+- 8 creature monster sheets (Conjurer's Handbook)
+- 30+ worldbuilding documents (provinces, families, characters, military, religion)
+- Spinoff: *Tales From Troha* (All's Good in Harpei, The Dilemma 1652, Twelve Gloomshards)
+- Book 2 outline (Cult of ECAS)
+- Planned 9-book series + Elven Revolution trilogy + Adrian adventure
 
-## Chapters
+### Continuity Risks
 
-## Syntheses
+- Some documents contain real-world excerpts used as thematic inspiration (not in-world canon)
+
+### Canonized Decisions (2026-05-10)
+
+- Ark's Law: **10 generations** before handover
+- Yozaki's birth name: **Li Zhao** (not Li Jhao)
+- Ark's Law founder: **Ark Jin Shen** (not Kohei Amatsu)
